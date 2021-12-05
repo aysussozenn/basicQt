@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Apple_Hesap_makinesi_Calculator-icon.png</file>
+        <file>img/bmi.png</file>
+        <file>img/bmi-about.png</file>
+    </qresource>
+</RCC>
